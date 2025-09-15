@@ -20,12 +20,10 @@ Dashboards were built in **Power BI**, with data preparation in **SQL** and **Ex
 - **Power BI** – Dashboard creation & visualization  
 
 ---
-
 ## 📂 Repository Contents
-- `/reports` → Full report & dashboard PDF  
-- `/dashboard` → Power BI file  
-- `/data` → (optional dataset if sharable)  
-- `/images` → Visuals for README  
+- [Project.pbix](./Project.pbix) → Power BI dashboard file  
+- [project_report.pdf](./project_report.pdf) → Full written report  
+- [sql.txt](./sql.txt) → SQL queries used for analysis  
 
 ---
 
@@ -38,11 +36,16 @@ Dashboards were built in **Power BI**, with data preparation in **SQL** and **Ex
 ---
 
 ## 🖼 Dashboard Preview
+Country Analysis:
 <p align=center><img width="602" src="https://github.com/Marie-glitch02/university-success-analysis/blob/main/Screenshot%202025-09-12%20145814.png"/> </p>
 
----
+University Analysis :
 
-## 🚀 How to Use
-1. Download the **PowerBI.pbix** file from `/dashboard` and open in **Power BI**.  
-2. Or view insights directly in the **PDF report** under `/reports`.  
+<p align=center><img width="602" src="https://github.com/Marie-glitch02/university-success-analysis/blob/main/Screenshot%202025-09-12%20203520.png/> </p>
+
+yearly Analysis: 
+
+<p align=center><img width="602" src="https://github.com/Marie-glitch02/university-success-analysis/blob/main/Screenshot%202025-09-12%20214125.png"/> </p>
+
+---
 
