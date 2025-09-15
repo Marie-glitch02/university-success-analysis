@@ -38,8 +38,7 @@ Dashboards were built in **Power BI**, with data preparation in **SQL** and **Ex
 ---
 
 ## 🖼 Dashboard Preview
-
-Example:  
+<p align=center><img width="602" src="https://github.com/Marie-glitch02/university-success-analysis/blob/main/Screenshot%202025-09-12%20145814.png"/> </p>
 
 ---
 
