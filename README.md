@@ -41,7 +41,7 @@ Country Analysis:
 
 University Analysis :
 
-<p align=center><img width="602" src="https://github.com/Marie-glitch02/university-success-analysis/blob/main/Screenshot%202025-09-12%20203520.png/> </p>
+<p align=center><img width="602" src="https://github.com/Marie-glitch02/university-success-analysis/blob/main/Screenshot%202025-09-12%20203520.png"/> </p>
 
 yearly Analysis: 
 
